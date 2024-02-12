@@ -6,7 +6,7 @@ import WhoAreWe from "../components/WhoAreWe";
 import Team from "../components/Team";
 import Footer from "../components/Footer";
 import Reservation from "../components/Reservation";
-import About from '../components/about';
+import About from '../components/About';
 
 const Home = () => {
   return (
